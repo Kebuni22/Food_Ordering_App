@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248696803883",
+    "project_id": "soa-archi",
+    "storage_bucket": "soa-archi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248696803883:android:a003b1a1704c9ec807506e",
+        "android_client_info": {
+          "package_name": "com.example.assone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3VXeAE60w_ma2C_ak8OfJx0PyOzDrTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
