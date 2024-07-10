@@ -1,5 +1,5 @@
 # Food_Ordering_App
- GROUP DETAILS - GROUP NO: 01
+ GROUP DETAILS - GROUP  NO: 01
 Food Ordering App
 
 01. D/BIT/22/0036 - TDCS Gunawardana
